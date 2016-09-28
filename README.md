@@ -1,10 +1,10 @@
 ---
 keywords:
 ---
-
-
 # Abstract Extract :open_file_folder:
 _Open zip files just like folders in Windows_
+
+![logotype](logotype.svg)
 
 When you double-click a folder in Windows it opens. As simple as that. Why can't it be as simple when it comes to compressed files?
 
