@@ -23,12 +23,12 @@ When _Abstract Extract_ runs it will...
 
 This example assumes you have [7-Zip](http://www.7-zip.org/) installed and [added to PATH](https://www.youtube.com/watch?v=qdfjWpeJDnw) variable. 
 
-1. In the file _7-zip-shell-context-menu-defaults.reg_, look for all lines with
+1. In the file [7-zip-shell-context-menu-defaults.reg](7-zip-shell-context-menu-defaults.reg), look for all lines with
 
   ```
   @="\"D:\\path\\to\\extract.bat\" \"%1\" "
   ```
-2. Modify path to point to the location of the file _extract.bat_. Escape any backslash with another backslash.
+2. Modify path to point to the location of the file [extract.bat](extract.bat). Escape any backslash with another backslash.
 3. Double-click _7-zip-shell-context-menu-defaults.reg_ to merge with the registry. **Warning! As this modifies the Windows registry, make sure you have a backup or enough knowledge to know what you're doing.**
 
 That's it! Now any time any associated file with 7-zip is opened, _Abstract Extract_ will kick in and [do it's thing](#what-does-abstract-extract-do). Archives can still be opened up with the 7-zip viewer using the context menu or starting 7-zip and browsing for the archive.
