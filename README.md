@@ -1,8 +1,6 @@
----
-keywords:
----
+
 # Abstract Extract :open_file_folder:
-_Open zip files just like folders in Windows_
+> _Open zip files just like folders in Windows_
 
 ![logotype](logo.png)
 
@@ -39,7 +37,7 @@ That's it! Now any time any associated file with 7-zip is opened, _Abstract Extr
 
 _Abstract Extract_ does not depend on 7-zip. It was simply chosen as it is free, fast and open source. Please fork away and modify what's neceesary to make it work with other compression software. Let me know with a pull request if you figured anything out.
 
-In WinRAR, there is a setting called _"Remove redundant folders from extraction path"_.
+In WinRAR, there is a setting called _["Remove redundant folders from extraction path"](http://softwarerecs.stackexchange.com/a/1889)_.
 
 
 ### Command line
