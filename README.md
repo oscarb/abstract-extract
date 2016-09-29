@@ -49,6 +49,11 @@ extract.bat <archive_path>
 
 
 ## Acknowledgements and resources
+* [Make "Extract to \<folder\>" default on double-click](http://superuser.com/a/447791)
+* [Make 7-Zip extract to folder when double-clicking archives](https://gist.github.com/oscarb/3296c41843596b05a1887bb28e935636)
+* [Robocopy](https://technet.microsoft.com/sv-se/library/cc733145(v=ws.10).aspx)
+* [batch file - Set output of a command as a variable (with pipes)](http://stackoverflow.com/questions/14952295/set-output-of-a-command-as-a-variable-with-pipes)
+* [Counting lines in Windows command prompt](http://rickardnobel.se/counting-lines-in-windows-command-prompt/)
 
 ## License
 
